@@ -19,5 +19,7 @@ $ npm start
 $ npm run generate
 ```
 
+# 测试vscode使用git提交代码
+
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
